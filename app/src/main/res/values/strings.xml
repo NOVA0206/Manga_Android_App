@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bookorganizer</string>
+    <string name="new_user_signup">New User?<b>SignUp</b></string>
+    <string name="new_admin_signup">New Admin?<b>SignUp</b></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

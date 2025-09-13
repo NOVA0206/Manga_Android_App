@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "592913293070",
+    "project_id": "book-organizer-dd855",
+    "storage_bucket": "https://book-organizer-dd855-default-rtdb.asia-southeast1.firebasedatabase.app/"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592913293070:android:11f525b2837516e29b015f",
+        "android_client_info": {
+          "package_name": "com.example.bookorganizer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBakiHa1JBaGMMSkRRYBQCjJ9eaWOEtzFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
