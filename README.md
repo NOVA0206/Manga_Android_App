@@ -20,7 +20,7 @@ Built using **Android Studio** and **Firebase**, it allows **admins** to upload 
 
 | Splash Screen | First Screen | Login Screen | Admin Dashboard | Book List |  
 |---------------|--------------|--------------|-----------------|-----------|
-| ![Splash](docs/screenshots/splash.png) | ![Login](docs/screenshots/first.png) | ![Login](docs/screenshots/login.png) | ![Dashboard](docs/screenshots/admin_dashboard.png) | ![Book List](docs/screenshots/book_list.png) |
+| ![Splash](Docs/screenshots/splash.png) | ![Login](Docs/screenshots/first.png) | ![Login](Docs/screenshots/login.png) | ![Dashboard](Docs/screenshots/admin_dashboard.png) | ![Book List](Docs/screenshots/book_list.png) |
 
 
 
